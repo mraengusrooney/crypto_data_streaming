@@ -1,0 +1,1 @@
+/opt/kafka_2.13-3.8.0/bin/kafka-console-consumer.sh --bootstrap-server pkc-e0zxq.eu-west-3.aws.confluent.cloud:9092 --command-config ../config.properties  --topic sample_data_stock_trades --from-beginning 
